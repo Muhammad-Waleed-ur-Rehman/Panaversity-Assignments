@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Muhammad Waleed-ur-Rehman | Portfolio</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      scroll-behavior: smooth;
+    }
+
+    body {
+      font-family: Arial, sans-serif;
+      background: #0f172a;
+      color: #f8fafc;
+      line-height: 1.6;
+    }
+
+    header {
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      padding: 40px 20px;
+      background: linear-gradient(135deg, #0f172a, #1e3a8a);
+    }
+
+    .hero {
+      max-width: 850px;
+      animation: fadeIn 1.2s ease-in-out;
+    }
+
+    .profile-img {
+      width: 150px;
+      height: 150px;
+      border-radius: 50%;
+      border: 4px solid #38bdf8;
+      object-fit: cover;
+      margin-bottom: 20px;
+      background: #1e293b;
+    }
+
+    h1 {
+      font-size: 3rem;
+      margin-bottom: 10px;
+      color: #ffffff;
+    }
+
+    .subtitle {
+      color: #bae6fd;
+      font-size: 1.2rem;
+      margin-bottom: 25px;
+    }
+
+    .btn {
+      display: inline-block;
+      background: #38bdf8;
+      color: #020617;
+      padding: 12px 24px;
+      border-radius: 30px;
+      text-decoration: none;
+      font-weight: bold;
+      transition: 0.3s;
+    }
+
+    .btn:hover {
+      background: #7dd3fc;
+      transform: translateY(-3px);
+    }
+
+    section {
+      max-width: 1000px;
+      margin: auto;
+      padding: 70px 20px;
+    }
+
+    h2 {
+      font-size: 2rem;
+      color: #38bdf8;
+      margin-bottom: 20px;
+      border-bottom: 2px solid #38bdf8;
+      display: inline-block;
+      padding-bottom: 5px;
+    }
+
+    .card {
+      background: #1e293b;
+      padding: 25px;
+      border-radius: 16px;
+      margin-top: 20px;
+      box-shadow: 0 10px 25px rgba(0, 0, 0, 0.25);
+    }
+
+    .skills {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+      gap: 15px;
+      margin-top: 20px;
+    }
+
+    .skill {
+      background: #020617;
+      padding: 15px;
+      border-radius: 12px;
+      text-align: center;
+      border: 1px solid #334155;
+    }
+
+    .projects {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 20px;
+    }
+
+    .project-card h3 {
+      color: #bae6fd;
+      margin-bottom: 10px;
+    }
+
+    .project-card a,
+    .contact a {
+      color: #38bdf8;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    .project-card a:hover,
+    .contact a:hover {
+      text-decoration: underline;
+    }
+
+    footer {
+      text-align: center;
+      padding: 25px;
+      background: #020617;
+      color: #94a3b8;
+    }
+
+    @keyframes fadeIn {
+      from {
+        opacity: 0;
+        transform: translateY(25px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    @media (max-width: 600px) {
+      h1 {
+        font-size: 2.1rem;
+      }
+
+      .subtitle {
+        font-size: 1rem;
+      }
+
+      section {
+        padding: 50px 18px;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <div class="hero">
+      <img class="profile-img" src="https://via.placeholder.com/150" alt="Profile photo" />
+      <h1>Muhammad Waleed-ur-Rehman</h1>
+      <p class="subtitle">External Auditor | AI & Audit Automation Enthusiast | Future-focused Finance Professional</p>
+      <a href="#contact" class="btn">Contact Me</a>
+    </div>
+  </header>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <div class="card">
+      <p>
+        I am an external auditor and accounting professional from Karachi, Pakistan, with experience in audit,
+        IFRS, financial reporting, and technology-driven audit solutions. I am passionate about combining
+        traditional audit knowledge with AI, automation, and data analytics to make auditing smarter, faster,
+        and more practical.
+      </p>
+    </div>
+  </section>
+
+  <section id="skills">
+    <h2>Skills</h2>
+    <div class="skills">
+      <div class="skill">External Audit</div>
+      <div class="skill">IFRS & ISA</div>
+      <div class="skill">Financial Reporting</div>
+      <div class="skill">Excel & Data Analysis</div>
+      <div class="skill">Power BI</div>
+      <div class="skill">AI Tools</div>
+      <div class="skill">HTML & CSS</div>
+      <div class="skill">Python Basics</div>
+    </div>
+  </section>
+
+  <section id="projects">
+    <h2>Projects</h2>
+    <div class="projects">
+      <div class="card project-card">
+        <h3>Auditiq Pro</h3>
+        <p>
+          An AI-powered audit platform designed to help auditors with planning, risk assessment,
+          audit checklists, and smarter audit workflows.
+        </p>
+        <p><a href="https://auditiq-pro.vercel.app/" target="_blank">View Project</a></p>
+      </div>
+
+      <div class="card project-card">
+        <h3>ML Churn Prediction Pipeline</h3>
+        <p>
+          A machine learning project using Scikit-learn pipelines to predict customer churn with
+          preprocessing, model training, evaluation, and export.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <div class="card contact">
+      <p><strong>Email:</strong> <a href="mailto:waleedrehman20197@gmail.com">waleedrehman20197@gmail.com</a></p>
+      <p><strong>City:</strong> Karachi, Pakistan</p>
+      <p><strong>GitHub:</strong> <a href="https://github.com/Muhammad-Waleed-ur-Rehman" target="_blank">Muhammad-Waleed-ur-Rehman</a></p>
+      <p><strong>Portfolio Links:</strong> <a href="https://linktr.ee/WaleedRehman_" target="_blank">Linktree</a></p>
+    </div>
+  </section>
+
+  <footer>
+    <p>© 2026 Muhammad Waleed-ur-Rehman. Built with Markdown, AI, HTML, and a little caffeine.</p>
+  </footer>
+
+</body>
+</html>
