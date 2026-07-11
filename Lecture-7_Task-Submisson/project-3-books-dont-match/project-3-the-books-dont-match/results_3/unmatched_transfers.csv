@@ -1,0 +1,2 @@
+source_row,date,time,sender,amount,note,account,reason,action
+22,10/06/2026,07:45 AM,(unregistered sender),2500.0,,03XX-XXXXXXX,Sender cannot be confidently matched to the roster,Identify sender manually before allocation

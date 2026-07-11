@@ -1,0 +1,30 @@
+MONEY DETECTIVE REPORT
+======================
+
+Period: 2026-07-01 to 2026-07-31
+Transactions analyzed: 31
+
+VERIFIED TOTALS
+---------------
+Total inflows: 6,420.00
+Total outflows: 3,442.85
+Net movement: 2,977.15
+
+Opening balance: 8,500.00
+Closing balance: 11,477.15
+Net transaction movement: 2,977.15
+Expected closing balance: 11,477.15
+Reconciliation difference: 0.00
+
+LEAK CHECKS
+-----------
+Recurring/contract-like charges found: 6
+Recurring/contract-like total: 969.00
+Exact duplicate rows found: 0
+Possible duplicate pairs found: 0
+Repeated merchants found: 1
+
+INTERPRETATION
+--------------
+A recurring candidate is not automatically wasteful. It is a review list.
+A possible duplicate is not automatically an error. Confirm it against receipts or the bank app.

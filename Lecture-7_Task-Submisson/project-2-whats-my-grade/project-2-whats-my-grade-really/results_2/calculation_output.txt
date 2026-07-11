@@ -1,0 +1,14 @@
+WHAT'S MY GRADE, REALLY?
+============================
+Assignment average after dropping 2: 85.875%
+Quiz average after dropping 1:       85.000%
+Dropped assignment percentages:     [56.00000000000001, 60.0]
+Dropped quiz percentages:           [60.0]
+Adjusted lower midterm used:         90.000%
+Weighted grade before bonus:         87.225%
+Participation bonus:                 2.500 points
+Current final grade:                 89.725%
+
+Final-exam score needed for 96.00%: 102.550%
+Target is not achievable under the supplied rules.
+Maximum possible grade with 100% on final: 94.725%

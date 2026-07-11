@@ -1,0 +1,212 @@
+[
+  {
+    "operation": "COPY",
+    "source": "C:\\Users\\Waleed ur Rehman\\Downloads\\download\\Messy_Downloads_Backup\\abc.tmp",
+    "destination": "C:\\Users\\Waleed ur Rehman\\Downloads\\download\\Messy_Downloads_Backup\\_Organized_Output\\Other\\abc.tmp",
+    "status": "PLANNED_ONLY"
+  },
+  {
+    "operation": "COPY",
+    "source": "C:\\Users\\Waleed ur Rehman\\Downloads\\download\\Messy_Downloads_Backup\\Audit_Report.docx",
+    "destination": "C:\\Users\\Waleed ur Rehman\\Downloads\\download\\Messy_Downloads_Backup\\_Organized_Output\\Documents\\Audit_Report.docx",
+    "status": "PLANNED_ONLY"
+  },
+  {
+    "operation": "COPY",
+    "source": "C:\\Users\\Waleed ur Rehman\\Downloads\\download\\Messy_Downloads_Backup\\Audit_Report_Final.docx",
+    "destination": "C:\\Users\\Waleed ur Rehman\\Downloads\\download\\Messy_Downloads_Backup\\_Organized_Output\\Documents\\Audit_Report_Final.docx",
+    "status": "PLANNED_ONLY"
+  },
+  {
+    "operation": "COPY",
+    "source": "C:\\Users\\Waleed ur Rehman\\Downloads\\download\\Messy_Downloads_Backup\\Audit_Report_Final_Final.docx",
+    "destination": "C:\\Users\\Waleed ur Rehman\\Downloads\\download\\Messy_Downloads_Backup\\_Organized_Output\\Documents\\Audit_Report_Final_Final.docx",
+    "status": "PLANNED_ONLY"
+  },
+  {
+    "operation": "COPY",
+    "source": "C:\\Users\\Waleed ur Rehman\\Downloads\\download\\Messy_Downloads_Backup\\Backup.rar",
+    "destination": "C:\\Users\\Waleed ur Rehman\\Downloads\\download\\Messy_Downloads_Backup\\_Organized_Output\\Archives\\Backup.rar",
+    "status": "PLANNED_ONLY"
+  },
+  {
+    "operation": "COPY",
+    "source": "C:\\Users\\Waleed ur Rehman\\Downloads\\download\\Messy_Downloads_Backup\\Budget Copy.xlsx",
+    "destination": "C:\\Users\\Waleed ur Rehman\\Downloads\\download\\Messy_Downloads_Backup\\_Organized_Output\\Documents\\Budget Copy.xlsx",
+    "status": "PLANNED_ONLY"
+  },
+  {
+    "operation": "COPY",
+    "source": "C:\\Users\\Waleed ur Rehman\\Downloads\\download\\Messy_Downloads_Backup\\Budget.xlsx",
+    "destination": "C:\\Users\\Waleed ur Rehman\\Downloads\\download\\Messy_Downloads_Backup\\_Organized_Output\\Documents\\Budget.xlsx",
+    "status": "PLANNED_ONLY"
+  },
+  {
+    "operation": "COPY",
+    "source": "C:\\Users\\Waleed ur Rehman\\Downloads\\download\\Messy_Downloads_Backup\\chrome_setup.exe",
+    "destination": "C:\\Users\\Waleed ur Rehman\\Downloads\\download\\Messy_Downloads_Backup\\_Organized_Output\\Installers\\chrome_setup.exe",
+    "status": "PLANNED_ONLY"
+  },
+  {
+    "operation": "COPY",
+    "source": "C:\\Users\\Waleed ur Rehman\\Downloads\\download\\Messy_Downloads_Backup\\Course Files.zip",
+    "destination": "C:\\Users\\Waleed ur Rehman\\Downloads\\download\\Messy_Downloads_Backup\\_Organized_Output\\Archives\\Course Files.zip",
+    "status": "PLANNED_ONLY"
+  },
+  {
+    "operation": "COPY",
+    "source": "C:\\Users\\Waleed ur Rehman\\Downloads\\download\\Messy_Downloads_Backup\\Holiday.mp4",
+    "destination": "C:\\Users\\Waleed ur Rehman\\Downloads\\download\\Messy_Downloads_Backup\\_Organized_Output\\Videos\\Holiday.mp4",
+    "status": "PLANNED_ONLY"
+  },
+  {
+    "operation": "COPY",
+    "source": "C:\\Users\\Waleed ur Rehman\\Downloads\\download\\Messy_Downloads_Backup\\IMG_1001 - Copy.jpg",
+    "destination": "C:\\Users\\Waleed ur Rehman\\Downloads\\download\\Messy_Downloads_Backup\\_Organized_Output\\Images\\IMG_1001 - Copy.jpg",
+    "status": "PLANNED_ONLY"
+  },
+  {
+    "operation": "COPY",
+    "source": "C:\\Users\\Waleed ur Rehman\\Downloads\\download\\Messy_Downloads_Backup\\IMG_1001.jpg",
+    "destination": "C:\\Users\\Waleed ur Rehman\\Downloads\\download\\Messy_Downloads_Backup\\_Organized_Output\\Images\\IMG_1001.jpg",
+    "status": "PLANNED_ONLY"
+  },
+  {
+    "operation": "COPY",
+    "source": "C:\\Users\\Waleed ur Rehman\\Downloads\\download\\Messy_Downloads_Backup\\IMG_1002.jpg",
+    "destination": "C:\\Users\\Waleed ur Rehman\\Downloads\\download\\Messy_Downloads_Backup\\_Organized_Output\\Images\\IMG_1002.jpg",
+    "status": "PLANNED_ONLY"
+  },
+  {
+    "operation": "COPY",
+    "source": "C:\\Users\\Waleed ur Rehman\\Downloads\\download\\Messy_Downloads_Backup\\IMG_1003.jpg",
+    "destination": "C:\\Users\\Waleed ur Rehman\\Downloads\\download\\Messy_Downloads_Backup\\_Organized_Output\\Images\\IMG_1003.jpg",
+    "status": "PLANNED_ONLY"
+  },
+  {
+    "operation": "COPY",
+    "source": "C:\\Users\\Waleed ur Rehman\\Downloads\\download\\Messy_Downloads_Backup\\Lecture.mp4",
+    "destination": "C:\\Users\\Waleed ur Rehman\\Downloads\\download\\Messy_Downloads_Backup\\_Organized_Output\\Videos\\Lecture.mp4",
+    "status": "PLANNED_ONLY"
+  },
+  {
+    "operation": "COPY",
+    "source": "C:\\Users\\Waleed ur Rehman\\Downloads\\download\\Messy_Downloads_Backup\\Logo.png",
+    "destination": "C:\\Users\\Waleed ur Rehman\\Downloads\\download\\Messy_Downloads_Backup\\_Organized_Output\\Images\\Logo.png",
+    "status": "PLANNED_ONLY"
+  },
+  {
+    "operation": "COPY",
+    "source": "C:\\Users\\Waleed ur Rehman\\Downloads\\download\\Messy_Downloads_Backup\\Meeting Notes.txt",
+    "destination": "C:\\Users\\Waleed ur Rehman\\Downloads\\download\\Messy_Downloads_Backup\\_Organized_Output\\Documents\\Meeting Notes.txt",
+    "status": "PLANNED_ONLY"
+  },
+  {
+    "operation": "COPY",
+    "source": "C:\\Users\\Waleed ur Rehman\\Downloads\\download\\Messy_Downloads_Backup\\Meeting.mp3",
+    "destination": "C:\\Users\\Waleed ur Rehman\\Downloads\\download\\Messy_Downloads_Backup\\_Organized_Output\\Audio\\Meeting.mp3",
+    "status": "PLANNED_ONLY"
+  },
+  {
+    "operation": "COPY",
+    "source": "C:\\Users\\Waleed ur Rehman\\Downloads\\download\\Messy_Downloads_Backup\\New Text Document.txt",
+    "destination": "C:\\Users\\Waleed ur Rehman\\Downloads\\download\\Messy_Downloads_Backup\\_Organized_Output\\Documents\\New Text Document.txt",
+    "status": "PLANNED_ONLY"
+  },
+  {
+    "operation": "COPY",
+    "source": "C:\\Users\\Waleed ur Rehman\\Downloads\\download\\Messy_Downloads_Backup\\notes_old.txt",
+    "destination": "C:\\Users\\Waleed ur Rehman\\Downloads\\download\\Messy_Downloads_Backup\\_Organized_Output\\Documents\\notes_old.txt",
+    "status": "PLANNED_ONLY"
+  },
+  {
+    "operation": "COPY",
+    "source": "C:\\Users\\Waleed ur Rehman\\Downloads\\download\\Messy_Downloads_Backup\\office_setup.exe",
+    "destination": "C:\\Users\\Waleed ur Rehman\\Downloads\\download\\Messy_Downloads_Backup\\_Organized_Output\\Installers\\office_setup.exe",
+    "status": "PLANNED_ONLY"
+  },
+  {
+    "operation": "COPY",
+    "source": "C:\\Users\\Waleed ur Rehman\\Downloads\\download\\Messy_Downloads_Backup\\Photos.zip",
+    "destination": "C:\\Users\\Waleed ur Rehman\\Downloads\\download\\Messy_Downloads_Backup\\_Organized_Output\\Archives\\Photos.zip",
+    "status": "PLANNED_ONLY"
+  },
+  {
+    "operation": "COPY",
+    "source": "C:\\Users\\Waleed ur Rehman\\Downloads\\download\\Messy_Downloads_Backup\\Presentation.pptx",
+    "destination": "C:\\Users\\Waleed ur Rehman\\Downloads\\download\\Messy_Downloads_Backup\\_Organized_Output\\Documents\\Presentation.pptx",
+    "status": "PLANNED_ONLY"
+  },
+  {
+    "operation": "COPY",
+    "source": "C:\\Users\\Waleed ur Rehman\\Downloads\\download\\Messy_Downloads_Backup\\Resume (1).pdf",
+    "destination": "C:\\Users\\Waleed ur Rehman\\Downloads\\download\\Messy_Downloads_Backup\\_Organized_Output\\Documents\\Resume (1).pdf",
+    "status": "PLANNED_ONLY"
+  },
+  {
+    "operation": "COPY",
+    "source": "C:\\Users\\Waleed ur Rehman\\Downloads\\download\\Messy_Downloads_Backup\\Resume Final.pdf",
+    "destination": "C:\\Users\\Waleed ur Rehman\\Downloads\\download\\Messy_Downloads_Backup\\_Organized_Output\\Documents\\Resume Final.pdf",
+    "status": "PLANNED_ONLY"
+  },
+  {
+    "operation": "COPY",
+    "source": "C:\\Users\\Waleed ur Rehman\\Downloads\\download\\Messy_Downloads_Backup\\Resume.pdf",
+    "destination": "C:\\Users\\Waleed ur Rehman\\Downloads\\download\\Messy_Downloads_Backup\\_Organized_Output\\Documents\\Resume.pdf",
+    "status": "PLANNED_ONLY"
+  },
+  {
+    "operation": "COPY",
+    "source": "C:\\Users\\Waleed ur Rehman\\Downloads\\download\\Messy_Downloads_Backup\\Screenshot (1).png",
+    "destination": "C:\\Users\\Waleed ur Rehman\\Downloads\\download\\Messy_Downloads_Backup\\_Organized_Output\\Screenshots\\Screenshot (1).png",
+    "status": "PLANNED_ONLY"
+  },
+  {
+    "operation": "COPY",
+    "source": "C:\\Users\\Waleed ur Rehman\\Downloads\\download\\Messy_Downloads_Backup\\Screenshot (2).png",
+    "destination": "C:\\Users\\Waleed ur Rehman\\Downloads\\download\\Messy_Downloads_Backup\\_Organized_Output\\Screenshots\\Screenshot (2).png",
+    "status": "PLANNED_ONLY"
+  },
+  {
+    "operation": "COPY",
+    "source": "C:\\Users\\Waleed ur Rehman\\Downloads\\download\\Messy_Downloads_Backup\\Screenshot (3).png",
+    "destination": "C:\\Users\\Waleed ur Rehman\\Downloads\\download\\Messy_Downloads_Backup\\_Organized_Output\\Screenshots\\Screenshot (3).png",
+    "status": "PLANNED_ONLY"
+  },
+  {
+    "operation": "COPY",
+    "source": "C:\\Users\\Waleed ur Rehman\\Downloads\\download\\Messy_Downloads_Backup\\Screenshot 2026-06-18.png",
+    "destination": "C:\\Users\\Waleed ur Rehman\\Downloads\\download\\Messy_Downloads_Backup\\_Organized_Output\\Screenshots\\Screenshot 2026-06-18.png",
+    "status": "PLANNED_ONLY"
+  },
+  {
+    "operation": "COPY",
+    "source": "C:\\Users\\Waleed ur Rehman\\Downloads\\download\\Messy_Downloads_Backup\\Screenshot 2026-07-01.png",
+    "destination": "C:\\Users\\Waleed ur Rehman\\Downloads\\download\\Messy_Downloads_Backup\\_Organized_Output\\Screenshots\\Screenshot 2026-07-01.png",
+    "status": "PLANNED_ONLY"
+  },
+  {
+    "operation": "COPY",
+    "source": "C:\\Users\\Waleed ur Rehman\\Downloads\\download\\Messy_Downloads_Backup\\Untitled.docx",
+    "destination": "C:\\Users\\Waleed ur Rehman\\Downloads\\download\\Messy_Downloads_Backup\\_Organized_Output\\Documents\\Untitled.docx",
+    "status": "PLANNED_ONLY"
+  },
+  {
+    "operation": "COPY",
+    "source": "C:\\Users\\Waleed ur Rehman\\Downloads\\download\\Messy_Downloads_Backup\\Vacation - Copy.png",
+    "destination": "C:\\Users\\Waleed ur Rehman\\Downloads\\download\\Messy_Downloads_Backup\\_Organized_Output\\Images\\Vacation - Copy.png",
+    "status": "PLANNED_ONLY"
+  },
+  {
+    "operation": "COPY",
+    "source": "C:\\Users\\Waleed ur Rehman\\Downloads\\download\\Messy_Downloads_Backup\\Vacation.png",
+    "destination": "C:\\Users\\Waleed ur Rehman\\Downloads\\download\\Messy_Downloads_Backup\\_Organized_Output\\Images\\Vacation.png",
+    "status": "PLANNED_ONLY"
+  },
+  {
+    "operation": "COPY",
+    "source": "C:\\Users\\Waleed ur Rehman\\Downloads\\download\\Messy_Downloads_Backup\\vlc.exe",
+    "destination": "C:\\Users\\Waleed ur Rehman\\Downloads\\download\\Messy_Downloads_Backup\\_Organized_Output\\Installers\\vlc.exe",
+    "status": "PLANNED_ONLY"
+  }
+]

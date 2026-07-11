@@ -1,0 +1,30 @@
+THE BOOKS DON'T MATCH - RECONCILIATION REPORT
+================================================
+
+Expected roster total:             PKR 45,000.00
+Raw digital payment total:         PKR 46,500.00
+Raw total less expected total:     PKR 1,500.00
+
+Credited to roster dues:           PKR 41,500.00
+Outstanding roster dues:           PKR 3,500.00
+Duplicate/overpayment held:        PKR 2,500.00
+Unidentified transfer held:        PKR 2,500.00
+
+Control check:
+Credited + duplicate + unidentified = PKR 46,500.00
+Raw record total                   = PKR 46,500.00
+Control difference                 = PKR 0.00
+
+FOLLOW-UP REQUIRED
+------------------
+Mahnoor Iqbal: credited PKR 1,500; collect PKR 1,000.
+Faisal Mehmood: no matched payment; collect PKR 2,500.
+Hassan Sheikh: second PKR 2,500 transfer is a duplicate; refund or credit it.
+Unregistered sender: identify the owner of the PKR 2,500 transfer before allocation.
+
+CONCLUSION
+----------
+The raw bank total is PKR 1,500 above the expected total, but that does not
+mean the roster is fully paid. Only PKR 41,500 is validly credited to dues.
+PKR 3,500 remains outstanding from named contributors.
+

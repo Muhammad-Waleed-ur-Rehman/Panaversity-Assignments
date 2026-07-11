@@ -1,0 +1,18 @@
+source_row,date,time,sender,amount,note,account,matched_person,credited_amount,status
+5,03/06/2026,10:15 AM,ALI RAZA,2500.0,farewell gift,0300-1234567,Ali Raza,2500.0,Full payment
+6,3-Jun,11:02,Sana Baji,2500.0,,0333-7654321,Sana Tariq,2500.0,Full payment
+7,03.06.2026,14:30,Ahsan M.,2500.0,gift fund,0321-9988776,Ahsan Malik,2500.0,Full payment
+8,4/6/26,09:45am,Umer F.,5000.0,self+bilal,0345-1122334,Umer Farooq,2500,Split combined transfer
+8,4/6/26,09:45am,Umer F.,5000.0,self+bilal,0345-1122334,Bilal Ahmed,2500,Split combined transfer
+9,04-06-2026,16:10,fatima n,2500.0,farewell,0301-5566778,Fatima Noor,2500.0,Full payment
+10,5 Jun,08:30 AM,Hassan Sheikh,2500.0,,0312-2233445,Hassan Sheikh,2500.0,Full payment
+12,05/06/2026,12:00,ZAINAB Q,2500.0,farewell gift,0333-6677889,Zainab Qureshi,2500.0,Full payment
+13,6-Jun-26,15:45,Mahnoor,1500.0,will send rest later,0300-9988112,Mahnoor Iqbal,1500.0,Partial payment
+14,06/06/2026,09:20 AM,D.Khan,2500.0,,0345-4433221,Danish Khan,2500.0,Full payment
+15,6 June,18:00,Ayesha S,2500.0,gift,0321-7788990,Ayesha Siddiqui,2500.0,Full payment
+16,07-06-2026,10:10,Rabia,2500.0,farewell fund,0301-3344556,Rabia Chaudhry,2500.0,Full payment
+17,07/06/26,13:25,Mrs Osman Javed,2500.0,on behalf of Osman,0312-8899001,Osman Javed,2500.0,Full payment
+18,8-Jun,09:00am,Nida A.,2500.0,,0333-2211334,Nida Aslam,2500.0,Full payment
+19,08.06.2026,17:30,Kamran Latif,2500.0,trip?? or gift,0345-9900112,Kamran Latif,2500.0,Full payment
+20,09/06/2026,11:11,Sadia,2500.0,farewell,0301-6655443,Sadia Rehman,2500.0,Full payment
+21,09-06-26,20:05,J AZIZ,2500.0,,0321-1234567,Junaid Aziz,2500.0,Full payment
